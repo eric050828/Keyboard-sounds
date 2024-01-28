@@ -1,2 +1,2 @@
 % 設定音量
-volume=5
+volume=8
